@@ -1,0 +1,67 @@
+.container{
+    width: max-content;
+    margin: auto;
+}
+
+.right{
+    text-align: right;
+}
+
+.plus{
+    padding-right: 150px;
+}
+
+.equals{
+    padding-right: 50px;
+}
+
+.five1{
+    position: absolute;
+    left: 1038px;
+    top: 80px;
+    font-size: 50px;
+    margin: 0;
+}
+
+.five2{
+    position: absolute;
+    left: 1038px;
+    top: 185px;
+    font-size: 50px;
+    margin: 0;
+}
+.zero1{
+    position: absolute;
+    left: 1140px;
+    top: 80px;
+    font-size: 50px;
+    margin: 0;
+}
+.zero2{
+    position: absolute;
+    left: 1140px;
+    top: 185px;
+    font-size: 50px;
+    margin: 0;
+}
+.zero3{
+    position: absolute;
+    left: 1036px;
+    top: 325px;
+    font-size: 50px;
+    margin: 0;
+}
+.zero4{
+    position: absolute;
+    left: 1140px;
+    top: 325px;
+    font-size: 50px;
+    margin: 0;
+}
+.one{
+    position: absolute;
+    left: 934px;
+    top: 325px;
+    font-size: 50px;
+    margin: 0;
+}
