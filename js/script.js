@@ -17,12 +17,12 @@ function solutionFunction() {
 reset.addEventListener("click", resetFunction);
 
 function resetFunction() {
-    document.querySelector(".five1").innerHTML = ""
-    document.querySelector(".five2").innerHTML = ""
-    document.querySelector(".zero1").innerHTML = ""
-    document.querySelector(".zero2").innerHTML = ""
-    document.querySelector(".zero3").innerHTML = ""
-    document.querySelector(".zero4").innerHTML = ""
-    document.querySelector(".one").innerHTML = ""
-    document.querySelector(".sum").innerHTML = "Result:"
+    document.querySelector(".five1").innerHTML = "";
+    document.querySelector(".five2").innerHTML = "";
+    document.querySelector(".zero1").innerHTML = "";
+    document.querySelector(".zero2").innerHTML = "";
+    document.querySelector(".zero3").innerHTML = "";
+    document.querySelector(".zero4").innerHTML = "";
+    document.querySelector(".one").innerHTML = "";
+    document.querySelector(".sum").innerHTML = "Result:";
 }
